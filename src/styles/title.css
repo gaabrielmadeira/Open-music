@@ -1,0 +1,47 @@
+.title-1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: var(--font-weigth-1);
+    font-size: var(--font-1);
+    line-height: 121%;
+    color: var(--color-disable-fixed); 
+}
+
+.title-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: var(--font-weigth-1);
+    font-size: var(--font-2);
+    line-height: 119%;
+
+    color: var(--color-grey-1);
+}
+
+.text-1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: var(--font-weigth-2);
+    font-size: var(--font-3);
+
+    color: var(--color-grey-2);
+}
+
+.text-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: var(--font-weigth-2);
+    font-size: var(--font-2);
+    line-height: 119%;
+
+    color: var(--color-grey-2);
+}
+
+.text-3{
+font-family: 'Inter';
+font-style: normal;
+font-weight: var(--font-weigth-1);
+font-size: var(--font-3);
+line-height: 121%;
+
+color: var(--color-grey-1);
+}

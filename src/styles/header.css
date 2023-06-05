@@ -1,0 +1,22 @@
+.header__container{
+    margin-top: 50px;
+    width: 45%;
+    height: 37px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__button-dark-mode{
+    width: 33px;
+    height: 33px;
+
+    background: var(--color-grey-8);
+    border-radius: 5px;
+    border: 1px solid var(--color-grey-8);
+}
+
+.header__button-dark-mode:hover{
+    cursor: pointer;
+}

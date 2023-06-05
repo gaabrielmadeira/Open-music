@@ -1,0 +1,78 @@
+.filter__button{
+width: 60px;
+height: 32px;
+padding: 5px 10px;
+
+background: var(--color-grey-8);
+
+border: 1px solid var(--color-grey-8);
+border-radius: 4px;
+color: var(--color-grey-2);
+
+}
+
+.filter__button:hover{
+background: var(--color-grey-1);
+color: var(--color-grey-8);
+cursor: pointer;
+transition: 0.6s;
+}
+
+.filter__button-selected{
+background: var(--color-grey-1);
+border-radius: 4px;
+color: var(--color-grey-8);
+}
+
+.filter__button-dark{
+width: 60px;
+height: 32px;
+padding: 5px 10px;
+
+background: var(--color-grey-8);
+
+border: 1px solid var(--color-grey-8);
+border-radius: 4px;
+
+color: var(--color-grey-6);
+}
+
+.filter__button-dark:hover{
+border: 1px solid var(--color-grey-0);
+
+color: var(--color-grey-0);
+
+cursor: pointer;
+
+transition: 0.6s;
+
+}
+
+.filter__button-dark-selected{
+background: var(--color-grey-8);
+
+border: 1px solid var(--color-grey-0);
+border-radius: 4px;
+
+color: var(--color-grey-0);
+}
+
+.button__cards{
+width: 75px;
+height: 32px;
+
+background: var(--color-grey-9);
+
+border: 1px solid var(--color-grey-9);
+border-radius: 4px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: var(--font-weigth-2);
+font-size: var(--font-3);
+color: var(--color-grey-2);
+}
+
+.button__cards:hover{
+    cursor: pointer;
+}
